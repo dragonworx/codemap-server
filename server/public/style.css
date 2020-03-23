@@ -1,0 +1,18 @@
+body {
+   margin: 0;
+   height: auto;
+}
+
+.CodeMirror {
+   height: auto;
+ }
+
+ .CodeMirror-scroll {
+   height: auto;
+   overflow-y: hidden;
+   overflow-x: auto;
+ }
+
+.styled-background {
+   background-color: rgb(86, 139, 139);
+}
